@@ -7,3 +7,11 @@ def suma():
 
 
 suma()    
+
+
+def resta():
+    num1 = float(input("Ingrese el numero 1 : "))
+    num2 = float(input("Ingrese el numero 2 : "))
+    print("La resta de los numeros que ingresaste es : ", num1-num2)
+
+resta()    
